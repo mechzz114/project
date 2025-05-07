@@ -26,7 +26,7 @@ CREATE TABLE `members_skhan27` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 INSERT INTO `members_skhan27` (`id`, `username`, `password`) VALUES
-(1, 'israr', 'admin');
+(1, 'skadmin', '1234');
 
 -- --------------------------------------------------------
 
